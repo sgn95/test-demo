@@ -8,3 +8,8 @@ console.log('dev commit');
 
 
 console.log('master commit');
+console.log('dev commit');
+console.log('dev commit');
+console.log('dev commit');
+console.log('dev commit');
+console.log('dev commit1');
