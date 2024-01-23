@@ -10,11 +10,30 @@
 
 step 1:    
 
-    git reabse master -i head~N (N 表示要修改前几次的commit)
-
+    git reabse -i head~N (N 表示要修改前几次的commit)
 
 
 step 2:
 
+    git rebase dev 
 
 step 3:
+
+    遇到冲突 需要解决冲突  git add ‘’
+
+step 4:
+
+    git rebase --continue
+    
+注意： 修改内容需要按照标准的格式：
+``` 
+    feat: 增加新功能
+    fix: 修复bug
+    modify: 修改一些需求
+    docs: 对文档的修改
+    style: 代码格式上的变动
+    refactor: 重构 不新增 也不修改bug
+    perf：优化相关 
+    test: 增加测试
+    revert： 回滚版本
+```
