@@ -32,3 +32,4 @@ console.log('dev commit1');
 
 
 console.log('dev commit2');
+console.log('this is one commit')
