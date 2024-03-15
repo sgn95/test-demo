@@ -1,11 +1,4 @@
-console.log('master commit')
-console.log('test');
-console.log('success');
-console.log('master commit');
-console.log('dev commit');
-console.log('dev commit');
+console.log('this is one commit')
 
 
-
-
-console.log(2)
+console.log(1)
