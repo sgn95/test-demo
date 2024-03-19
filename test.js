@@ -6,3 +6,4 @@ console.log('master')
 
 
 console.log('d1')
+console.log('d2')
